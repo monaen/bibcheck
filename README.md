@@ -1,2 +1,2 @@
-# bibcheck
+## Bibcheck
 Check the bib format
